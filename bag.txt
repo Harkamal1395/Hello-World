@@ -1,0 +1,2 @@
+bag contains 5 fruits and 4 balls
+
